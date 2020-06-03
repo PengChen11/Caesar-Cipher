@@ -6,6 +6,8 @@ authors = ["Peng Chen <pchen0816@outlook.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+nltk = "^3.5"
+pysnooper = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
